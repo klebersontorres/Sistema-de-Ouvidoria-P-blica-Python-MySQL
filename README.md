@@ -79,9 +79,8 @@ A ouvidoria é uma ferramenta fundamental para ouvir e registrar as demandas da 
 
 > Após clonar e rodar o sistema, sua interface no terminal se parecerá com:
 
-![Exemplo terminal](docs/exemplo_terminal.png)
+<img width="1317" height="330" alt="Captura de tela 2025-07-24 095301" src="https://github.com/user-attachments/assets/ba29a52e-1ac6-433a-837f-a18e7d61a5ed" />
 
-Crie uma pasta `docs/` e adicione uma captura de tela com esse nome para exibição automática no GitHub.
 
 ---
 
