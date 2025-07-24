@@ -78,8 +78,8 @@ A ouvidoria é uma ferramenta fundamental para ouvir e registrar as demandas da 
 ## 🖼️ Exemplo de Execução
 
 > Após clonar e rodar o sistema, sua interface no terminal se parecerá com:
+<img width="1317" height="300" alt="Captura de tela 2025-07-24 095301" src="https://github.com/user-attachments/assets/14d7890d-e642-42d5-b48f-c45794cf4b92" />
 
-<img width="1317" height="330" alt="Captura de tela 2025-07-24 095301" src="https://github.com/user-attachments/assets/ba29a52e-1ac6-433a-837f-a18e7d61a5ed" />
 
 
 ---
